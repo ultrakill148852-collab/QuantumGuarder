@@ -144,7 +144,7 @@ print(f"Applied CDPI correction: {pulse['amplitude']:.4f}")
 ---
 
 ## Project Architecture
-
+''''
 QuantumGuarder/
 ├── .github/
 │   └── workflows/
@@ -159,7 +159,7 @@ QuantumGuarder/
 │       └── plotter.py
 ├── LICENSE
 └── requirements.txt
-
+''''
 ### Component Specifications
 
 **tracker.py (qguard/core/tracker.py)**
